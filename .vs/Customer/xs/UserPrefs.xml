@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{66834AAD-079F-4943-BA63-CA17A8616A88}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Customer" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Order.API" expanded="True">
+                <Node name="Common" expanded="True" />
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="UnitTests" expanded="True">
+              <Node name="Order.Tests" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="OrderControllerTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Services.Order.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.UnitTests.Order.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

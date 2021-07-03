@@ -113,8 +113,6 @@ namespace Order.Tests
             Assert.IsType<OrderStatusDto>(result.Value);
             var resultDto = result.Value;
 
-            resultDto.customer.FirstName = "anu"; 
-
             // Match customer details
             resultDto.customer.Should().BeEquivalentTo(
                 mockCustomer,
