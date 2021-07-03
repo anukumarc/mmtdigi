@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj": {}
+    "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj": {}
   },
   "projects": {
-    "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj": {
+    "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj",
+        "projectUniqueName": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj",
         "projectName": "Order.API",
-        "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj",
+        "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj",
         "packagesPath": "/Users/anukumar/.nuget/packages/",
-        "outputPath": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/obj/",
+        "outputPath": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

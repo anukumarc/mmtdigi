@@ -6722,11 +6722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.Tests/Order.Tests.csproj",
+      "projectUniqueName": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.Tests/Order.Tests.csproj",
       "projectName": "Order.Tests",
-      "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.Tests/Order.Tests.csproj",
+      "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.Tests/Order.Tests.csproj",
       "packagesPath": "/Users/anukumar/.nuget/packages/",
-      "outputPath": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.Tests/obj/",
+      "outputPath": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6744,8 +6744,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj": {
-              "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Test/Customer/Order.API/Order.API.csproj"
+            "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj": {
+              "projectPath": "/Volumes/DATA 1/MMT DIGITAL/Assignment/mmtdigi/Order.API/Order.API.csproj"
             }
           }
         }
